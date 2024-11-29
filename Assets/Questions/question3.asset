@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: question3
   m_EditorClassIdentifier: 
   question: Which Unity version is this quiz made in?
+  answers:
+  - C++
+  - 6
+  - 2024
+  - 11
+  correctAnswerIndex: 1

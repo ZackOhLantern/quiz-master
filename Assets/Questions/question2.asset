@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: question2
   m_EditorClassIdentifier: 
   question: Which is a real dirtbike part?
+  answers:
+  - Parking Brake
+  - Differential
+  - Power Steering Box
+  - Petcock
+  correctAnswerIndex: 3
